@@ -20,7 +20,7 @@ For technical support, questions, or feedback about the Keisan App, please conta
 
 ## Website
 
-The support page is available at: [https://yourusername.github.io/keisan-support](https://yourusername.github.io/keisan-support)
+The support page is available at: [https://mankurt01.github.io/keisan-support](https://mankurt01.github.io/keisan-support)
 
 ## Files
 
@@ -37,7 +37,7 @@ To set up GitHub Pages for this repository:
 4. Choose "main" branch and "/ (root)" folder
 5. Click "Save"
 
-Your support page will be available at: `https://yourusername.github.io/keisan-support`
+Your support page will be available at: `https://mankurt01.github.io/keisan-support`
 
 ## Version
 
